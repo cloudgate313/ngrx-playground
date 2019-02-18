@@ -4,7 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## ngrx dependencies 
 [ngrx](https://ngrx.io/)
-[ngrx cli](https://github.com/ngrx/platform/tree/master/docs/schematics)
 
 ## Development server
 
